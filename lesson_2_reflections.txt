@@ -1,0 +1,5 @@
+Question 1 :What happens when you initialize a repository? Why do you need to do it?
+
+Answer: You create an empty repository or you make your current directory a git repo. It adds the necessary files to begin tracking the repo.
+
+

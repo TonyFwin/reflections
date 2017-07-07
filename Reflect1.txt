@@ -1,0 +1,26 @@
+Reflection Lesson 1:
+
+Question 1: How did viewing a diff between two version of a file help you see a bug that was introduced?
+
+Answer: It displayed the lines that were different between the two files. Include lines added, removed, changed and unchaged.
+
+
+Question 2:What do you think are the pros and cons of manually choosing when to createa a commit, like you do in Git, vs having versions automatically saved like Google Docs?
+
+Answer: Pros: better commits that are more useful, cleaner and better in length. Cons: Not available offline, if your system breaks and you didnt commit then you're screwed.
+
+Question 3: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others like Google Docs, treat each file separetly?
+
+Answer: Different audiences for the version control system. Git is designed for software which is more often than not many connected files. Where as docs is designed for document which are usually one off.
+
+Question 4: How can you use the commands git log and git diff to view the history of files?
+
+Answer: Git log shows a running log of past commits. Git diff displays the changes between 1 commit and a following commit. 
+
+Question 5: How might using version control make you more confident to make changes that could break something?
+
+Answer: It allows us to save code and be able to pin point when and where a bug was introduced or to revert to a working build in case of failure.
+
+Question 6: What do you want to use git for?
+
+Answer: Side projects
