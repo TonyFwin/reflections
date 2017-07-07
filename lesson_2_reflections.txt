@@ -2,4 +2,8 @@ Question 1 :What happens when you initialize a repository? Why do you need to do
 
 Answer: You create an empty repository or you make your current directory a git repo. It adds the necessary files to begin tracking the repo.
 
+question 2 How is the stagin area different from the working directory and the repository? What value do you think it offers?
+
+Answer: You pull from the repository and work on the code in the working directory, the staging area pushes the changes locally and the commit pushes them globally.
+
 
