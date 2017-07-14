@@ -13,3 +13,11 @@ Question 3: Describe the differences between forks, clones, and branches.  When 
   
   When to use: Branching is used to add changes but keep a master version unchanged. Clone to work or backup some branch some repo to another 
   directory and fork is when you ant to make changes that are public on github.
+
+Question 4: What is the benefit of having a copy of the last known state of the remote stored locally?
+
+  The benefit is being able to have all the current changes stored locally so that you may test the software or add and remove anything as
+  necessary.
+  
+ Question 5:
+  
