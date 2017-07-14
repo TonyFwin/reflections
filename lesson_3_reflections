@@ -5,3 +5,11 @@ Answer: In case you local becomes lost, stolen, corrupted it's good to have a re
 Question 2: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote?
 
 Answer: If more than one person is working on the code, a bug might be introduced, malicious intent might destroy the remote. 
+
+Question 3: Describe the differences between forks, clones, and branches.  When would you use one instead of another?
+  
+  Forking and cloning both copy an entire repo to a new location. The difference is that forking is specific to Github and cloning
+  is available to all of git. Branching is like a pointer to a linked list of your commits.
+  
+  When to use: Branching is used to add changes but keep a master version unchanged. Clone to work or backup some branch some repo to another 
+  directory and fork is when you ant to make changes that are public on github.
