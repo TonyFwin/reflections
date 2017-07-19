@@ -23,3 +23,9 @@ Question 4: What is the benefit of having a copy of the last known state of the 
   
   I would use a different vcs like svn but if that was not possible, collaboration would be a lot of team coding on one machine. 
   It would be much harder to work around schedules and split up work. 
+
+Question 6: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have
+  
+  When you want to work on a new feature that may have an adverse affect on the production code of the master branch. You want to work on the master
+  when you're implementing something simple. The benefit to the seperate branch is only breaking your code and not the master code.
+  Consequence is extra time to merge.
