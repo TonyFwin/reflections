@@ -19,5 +19,7 @@ Question 4: What is the benefit of having a copy of the last known state of the 
   The benefit is being able to have all the current changes stored locally so that you may test the software or add and remove anything as
   necessary.
   
- Question 5:
+ Question 5: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
   
+  I would use a different vcs like svn but if that was not possible, collaboration would be a lot of team coding on one machine. 
+  It would be much harder to work around schedules and split up work. 
